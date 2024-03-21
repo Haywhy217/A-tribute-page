@@ -1,0 +1,35 @@
+body{background-color: rgba(255,165, 0, 0.5);
+}
+
+
+.imgCtn{
+    width: 100%;
+}
+img{
+    width: 100%;
+}
+
+.name{
+    text-align: center;
+    font-size: 32px;
+    font-style: italic;
+}
+.desc{
+    text-align: center;
+    font-size: 28px;
+    font-style: oblique;
+}
+.timeline{
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+}
+ol{
+    list-style: disc;
+    }
+
+    li{ 
+        margin: 15px;
+        font-size: 20px;  
+        font-style: oblique; 
+    }
